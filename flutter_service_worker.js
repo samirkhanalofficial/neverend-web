@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "fe07d11f68a65cfd8f92ca31d4a879f4",
-"assets/AssetManifest.json": "54f7d1d062b893031502f76f0508fcf6",
+const RESOURCES = {"assets/AssetManifest.bin": "4fdfb62fd0772d5b308884001e926f98",
+"assets/AssetManifest.json": "4cd4e2060ac0fb539f7207634bb66b04",
 "assets/assets/fonts/ExensaGrotesk-Black.ttf": "6be9e678d75ed6db550c8042d6f7d96d",
 "assets/assets/fonts/ExensaGrotesk-Bold.ttf": "0b8b8c37cfc77fe871792ee160fff9f0",
 "assets/assets/fonts/ExensaGrotesk-ExtraBold.ttf": "4c74f92c54a7cf980177001aa42c3a86",
@@ -29,6 +29,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "fe07d11f68a65cfd8f92ca31d4a879f4
 "assets/assets/images/logo.png": "7c653465d85d21f6fd63ac0479a62839",
 "assets/assets/images/network/carousel1.jpg": "d6ffbafd488f0ae0dc17638cf9d7da3e",
 "assets/assets/images/network/emi.jpg": "35d4cfcf901c9dffbf2a12c7685d12d1",
+"assets/assets/images/network/fashion.jpg": "ed9de87e17cadbf39f7fe80908f3afa7",
 "assets/assets/images/network/nike-shoe.png": "77eed415b01a3ec4f6cb7758a5a2a6d4",
 "assets/assets/images/network/nike.png": "662beedd79fabe01bf9f61157af93053",
 "assets/assets/images/network/tv.png": "1d723f6fb08d8da5798cde6800807abc",
@@ -51,9 +52,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "fe07d11f68a65cfd8f92ca31d4a879f4
 "icons/Icon-512.png": "d451576fd02394cff7470f70047a1928",
 "icons/Icon-maskable-192.png": "bd355ff343ebff941b794bbd4999e26c",
 "icons/Icon-maskable-512.png": "d451576fd02394cff7470f70047a1928",
-"index.html": "f4f868e1aeec3dcddc4f00e49dd6efc2",
-"/": "f4f868e1aeec3dcddc4f00e49dd6efc2",
-"main.dart.js": "6753a36fccf669a604d4cfc524a84dc0",
+"index.html": "82314850534e8a8d84c28148bf8cc5f0",
+"/": "82314850534e8a8d84c28148bf8cc5f0",
+"main.dart.js": "63cc42151edcdc20e6bf0bf3ef9f4838",
 "manifest.json": "799f92f6fe1cd94e35769e981363fb07",
 "version.json": "2bdd4dc5c27fdd23cab6b1d6e49fb411"};
 // The application shell files that are downloaded before a service worker can
